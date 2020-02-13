@@ -1,2 +1,2 @@
 # sined
-data science entusiast 
+data science enthusiast 
